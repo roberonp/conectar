@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">guia11</string>
+    <string name="txtNombre">Escriba su nombre</string>
+    <string name="txtCorreo">Escriba su correo</string>
+    <string name="txtApellido">Escriba su apellido</string>
+    <string name="btnAgregar">AGREGAR</string>
+    <string name="btnListar">LISTAR</string>
+    <string name="btnRegresar">Regresar</string>
+</resources>
